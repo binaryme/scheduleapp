@@ -8,4 +8,8 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Aplicación de Salones';
   subtitle = 'MDH';
+  name: String;
+  object: Object;
 }
+
+
